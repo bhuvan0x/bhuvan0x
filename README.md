@@ -82,13 +82,13 @@ A personal experiment in local AI, voice interaction, and human-computer interac
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhuvan0x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan0x&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan0x&theme=tokyonight&hide_border=true" />
 
 </div>
 
