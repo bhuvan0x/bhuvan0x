@@ -98,7 +98,7 @@ A personal experiment in local AI, voice interaction, and human-computer interac
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/bhuvan0x/bhuvan0x/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -124,7 +124,7 @@ A personal experiment in local AI, voice interaction, and human-computer interac
 
 <div align="center">
 
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/bhuvan0x">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
