@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <!-- Animated Header -->
@@ -146,4 +145,3 @@ A personal experiment in local AI, voice interaction, and human-computer interac
 **Thanks for visiting my corner of the internet!** ✨
 
 </div>
-```
