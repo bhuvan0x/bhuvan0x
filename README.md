@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=bhuvan0x&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 
 </div>
 
@@ -128,7 +128,7 @@ A personal experiment in local AI, voice interaction, and human-computer interac
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/bhuvan0x/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
