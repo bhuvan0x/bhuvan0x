@@ -47,15 +47,15 @@ I don't want to simply use the technology of tomorrow. I want to understand it, 
 
 ### ⚙️ `MY_OPERATING_SYSTEM`
 
-| Attribute | Configuration |
-|:---|:---|
-| 🧩 Mindset | Curious & Analytical |
-| 🎯 Goal | AI / VR Engineer & Researcher |
-| 🧠 Learning Mode | Learn → Experiment → Build |
-| 🎮 Inspiration | Sword Art Online |
-| 🌌 Dream Project | Realistic Immersive Virtual Worlds |
-| 🔋 Motivation | Endless Curiosity |
-| 🛠️ Current Project | Alya PrimeBook |
+|     Attribute      |           Configuration            |
+|:-------------------|:-----------------------------------|
+| 🧩 Mindset         | Curious & Analytical               |
+| 🎯 Goal            | AI / VR Engineer & Researcher      |
+| 🧠 Learning Mode   | Learn → Experiment → Build       |
+| 🎮 Inspiration     | Sword Art Online                   |
+| 🌌 Dream Project   | Realistic Immersive Virtual Worlds |
+| 🔋 Motivation      | Endless Curiosity                  |
+| 🛠️ Current Project | Alya PrimeBook                     |
 
 ### 🚀 `WHAT I'M BUILDING`
 
@@ -109,7 +109,7 @@ me = Bhuvan()
 
 Building an offline AI assistant with:
 
-`Whisper.cpp` → `Qwen3 LLM` → `Qwen3-TTS`
+`ANY` → `ANY`
 
 A personal experiment in local AI, voice interaction, and human-computer interaction.
 
@@ -150,27 +150,17 @@ A personal experiment in local AI, voice interaction, and human-computer interac
 
 ---
 
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bhuvan0x/bhuvan0x/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
 ## 🌐 Beyond Code
 
 <div align="center">
 
-| Interest | Direction |
-|:---:|:---|
-| 🧠 AI | Building intelligent systems |
-| 🥽 VR / AR | Creating immersive experiences |
-| 🌌 Research | Exploring future technologies |
-| 🎌 Anime | Inspiration from fictional worlds |
-| 🇯🇵 Japan | Future academic destination |
+|   Interest  |            Direction               |
+|:----------- |:---------------------------------- |
+| 🧠 AI       | Building intelligent systems       |
+| 🥽 VR / AR  | Creating immersive experiences     |
+| 🌌 Research | Exploring future technologies      |
+| 🎌 Anime    | Inspiration from fictional worlds  |
+| 🇯🇵 Japan    | Future academic destination        |
 
 </div>
 
