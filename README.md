@@ -16,33 +16,84 @@
 
 ---
 
-## ⚡ WHO AM I?
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=Just+a+student+with+an+engineer's+mindset.;Curious+about+what+doesn't+exist+yet.;Building+tomorrow's+technology+today." />
+# ⚡ THE HUMAN BEHIND THE CODE
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Not+just+a+dreamer.+A+future+creator.;Exploring+the+unknown+one+line+at+a+time.;Reality+is+just+another+system+to+understand.;Building+my+own+version+of+the+future." />
 
 </div>
 
-```yaml
-╭─────────────────── ABOUT ME ───────────────────╮
-│                                                │
-│  👤 Name       : Bhuvan                         │
-│  🎓 Role       : Student | Future Engineer      │
-│  🧠 Mindset    : Think • Learn • Create         │
-│  🤖 Exploring  : Artificial Intelligence        │
-│  🥽 Passion    : VR / AR & Immersive Computing  │
-│  💻 Building   : Local AI Projects              │
-│  🌏 Dream      : Study & Research in Japan      │
-│  🎯 Mission    : Turn Imagination Into Reality  │
-│                                                │
-╰────────────────────────────────────────────────╯
-```
+---
 
-🧬 A LITTLE ABOUT ME
-- 🔭 Exploring the intersection of AI, VR, and immersive technology.
-- 🤖 Working on Alya PrimeBook, my own local AI assistant.
-- 🌌 Inspired by futuristic technologies and virtual worlds.
-- 💡 I love experimenting, problem-solving, and learning how things work.
-- 🇯🇵 Working towards my dream of studying Science & Engineering in Japan.
+### 🧑‍🚀 `PROFILE.exe`
+
+> A curious mind, an ambitious student, and a future engineer fascinated by technologies that once existed only in science fiction.
+
+I'm **Bhuvan** — someone who loves exploring the boundaries between imagination and reality.
+
+My interests lie where **Artificial Intelligence meets Virtual Reality**, where code becomes an experience, and where impossible ideas become engineering challenges.
+
+I don't want to simply use the technology of tomorrow. I want to understand it, experiment with it, and eventually build it.
+
+### 🧠 `CURRENTLY_LOADING...`
+
+- 🤖 **AI Engineering** — Exploring intelligent systems and local AI models.
+- 🥽 **Virtual Reality** — Dreaming of immersive worlds beyond traditional screens.
+- 🌐 **Immersive Computing** — Exploring AR, VR, and human-computer interaction.
+- 💻 **Software Development** — Turning ideas into functional projects.
+- 🔬 **Research & Innovation** — Asking questions, testing ideas, finding possibilities.
+- 🇯🇵 **Japan** — Working towards my dream of studying Science & Engineering.
+
+### ⚙️ `MY_OPERATING_SYSTEM`
+
+| Attribute | Configuration |
+|:---|:---|
+| 🧩 Mindset | Curious & Analytical |
+| 🎯 Goal | AI / VR Engineer & Researcher |
+| 🧠 Learning Mode | Learn → Experiment → Build |
+| 🎮 Inspiration | Sword Art Online |
+| 🌌 Dream Project | Realistic Immersive Virtual Worlds |
+| 🔋 Motivation | Endless Curiosity |
+| 🛠️ Current Project | Alya PrimeBook |
+
+### 🚀 `WHAT I'M BUILDING`
+
+**01 / ALYA PRIMEBOOK**
+
+A personal offline AI assistant powered by local language models, speech recognition, and voice synthesis.
+
+**02 / THE BIGGER VISION**
+
+Exploring the possibility of next-generation immersive environments — virtual worlds where interaction feels natural and technology becomes almost invisible.
+
+### 🎌 `BEYOND THE TERMINAL`
+
+- Anime enthusiast — especially futuristic and psychological concepts.
+- Fascinated by fictional technologies and their real-world possibilities.
+- Enjoy experimenting with creative ideas and digital projects.
+- Interested in science, engineering, technology, and how the universe works.
+
+### 🧬 `PERSONAL_PROTOCOLS`
+
+```python
+class Bhuvan:
+    def __init__(self):
+        self.mindset = "Think beyond limits"
+        self.interests = ["AI", "VR", "AR", "Technology"]
+        self.mission = "Build what I once imagined"
+        self.status = "Constantly evolving"
+
+    def daily_cycle(self):
+        return ["Learn", "Experiment", "Fail",
+                "Improve", "Repeat"]
+
+    def dream(self):
+        return "Turn science fiction into reality"
+
+
+me = Bhuvan()
+```
 
 ---
 
