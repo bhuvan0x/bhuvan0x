@@ -16,28 +16,33 @@
 
 ---
 
-## ⚡ About Me
+## ⚡ WHO AM I?
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=Just+a+student+with+an+engineer's+mindset.;Curious+about+what+doesn't+exist+yet.;Building+tomorrow's+technology+today." />
+
+</div>
 
 ```yaml
-name: Bhuvan
-role: Student | Aspiring Engineer
-interests:
-  - Artificial Intelligence
-  - Virtual & Augmented Reality
-  - Immersive Computing
-  - Software Engineering
-  - Human-Computer Interaction
-
-currently_building: Alya PrimeBook
-dream: Make science fiction a reality
-philosophy: "Think. Build. Experiment. Repeat."
+╭─────────────────── ABOUT ME ───────────────────╮
+│                                                │
+│  👤 Name       : Bhuvan                         │
+│  🎓 Role       : Student | Future Engineer      │
+│  🧠 Mindset    : Think • Learn • Create         │
+│  🤖 Exploring  : Artificial Intelligence        │
+│  🥽 Passion    : VR / AR & Immersive Computing  │
+│  💻 Building   : Local AI Projects              │
+│  🌏 Dream      : Study & Research in Japan      │
+│  🎯 Mission    : Turn Imagination Into Reality  │
+│                                                │
+╰────────────────────────────────────────────────╯
 ```
 
-- 🧠 Exploring the intersection of AI and immersive technology.
-- 🤖 Developing a local AI voice assistant called **Alya PrimeBook**.
-- 🌌 Fascinated by virtual worlds and next-generation AR/VR systems.
-- 💻 Learning by experimenting, building, and breaking things.
-- 🇯🇵 Dreaming of studying Science & Engineering in Japan.
+🧬 A LITTLE ABOUT ME
+- 🔭 Exploring the intersection of AI, VR, and immersive technology.
+- 🤖 Working on Alya PrimeBook, my own local AI assistant.
+- 🌌 Inspired by futuristic technologies and virtual worlds.
+- 💡 I love experimenting, problem-solving, and learning how things work.
+- 🇯🇵 Working towards my dream of studying Science & Engineering in Japan.
 
 ---
 
