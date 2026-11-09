@@ -142,6 +142,8 @@ A personal experiment in local AI, voice interaction, and human-computer interac
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan0x&layout=compact&theme=tokyonight&hide_border=true" />
 
+<img src="https://raw.githubusercontent.com/bhuvan0x/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
 <br/>
 
 <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan0x&theme=tokyonight&hide_border=true" />
