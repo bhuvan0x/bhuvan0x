@@ -138,15 +138,17 @@ A personal experiment in local AI, voice interaction, and human-computer interac
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhuvan0x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhuvan0x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan0x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan0x&layout=compact&theme=tokyonight&hide_border=true" />
+  <br/><br/>
 
-<img src="https://raw.githubusercontent.com/bhuvan0x/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+  <!-- Snake animation (requires setup - see note below) -->
+  <img src="https://raw.githubusercontent.com/bhuvan0x/bhuvan0x/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<br/>
+  <br/><br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan0x&theme=tokyonight&hide_border=true" />
+  <img width="95%" src="https://streak-stats.demolab.com/?user=bhuvan0x&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
