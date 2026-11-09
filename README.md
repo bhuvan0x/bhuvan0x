@@ -187,8 +187,8 @@ The project is an ongoing systems experiment in local inference, speech interfac
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=bhuvan0x&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=C9D1D9&icon_color=39D8E6" alt="GitHub statistics" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan0x&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=C9D1D9" alt="Most used languages" />
+<img height="155" src="https://github-stats-extended.vercel.app/api?username=bhuvan0x&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=C9D1D9&icon_color=39D8E6&cache_seconds=86400" alt="GitHub statistics" />
+<img height="155" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhuvan0x&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=C9D1D9&cache_seconds=86400" alt="Most used languages" />
 
 <br/>
 
