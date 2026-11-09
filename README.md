@@ -1,135 +1,217 @@
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:10172A,50:4F46E5,100:06B6D4&height=190&section=header&text=Bhuvan&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Explore&descSize=16&descAlignY=62"
-    width="100%"
-    alt="Bhuvan — Learn, Build, Explore"
-  />
 
-  <h1>Hi, I'm Bhuvan 👋</h1>
-  <p><strong>Student Developer · AI Systems · Immersive Computing</strong></p>
-  <p>
-    <a href="https://github.com/bhuvan0x">
-      <img src="https://komarev.com/ghpvc/?username=bhuvan0x&style=flat-square&color=4F46E5&label=PROFILE+VIEWS" alt="Profile views" />
-    </a>
-    <a href="https://www.linkedin.com/in/bhuvan0x/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-    </a>
-  </p>
+<img src="assets/profile-hero.svg" width="100%" alt="Bhuvan0x — Ideas into systems" />
+
+<br/>
+
+<a href="https://github.com/bhuvan0x">
+  <img src="https://img.shields.io/badge/GITHUB-PROFILE-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/bhuvan0x/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=bhuvan0x&style=flat-square&color=6D63FF&label=VISITORS" alt="Profile visitors" />
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+### 01 / THE OPERATOR
+
+I'm **Bhuvan** — a student developer exploring the edge between software, intelligence, and human experience.
+
+My curiosity lives in **AI systems, local-first computing, and immersive technology**. I like taking a big idea, opening it up, and figuring out how the pieces could actually work.
+
+</td>
+<td width="38%" valign="top">
+
+### CURRENT COORDINATES
+
+**FOCUS**  
+AI · VR / AR · HCI
+
+**MODE**  
+Learn → Experiment → Build
+
+**LONG GAME**  
+Next-generation immersive systems
+
+**NORTH STAR**  
+Science & Engineering in Japan
+
+</td>
+</tr>
+</table>
+
+## 02 / SELECTED BUILDS
+
+Not a list of tutorials. A few experiments, tools, and systems I've put together.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[01 — AI-NEXUS RADAR ↗](https://github.com/bhuvan0x/ai-nexus-radar)**
+
+A reliability-first web extraction workspace. Detects missing data and schema drift, then routes collectors through a human-reviewed repair loop.
+
+<sub>AI · DATA SYSTEMS · RELIABILITY</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[02 — WILLED CHESS ↗](https://github.com/bhuvan0x/Willed-Chess)**
+
+Chess with a twist: pieces have behavioral tendencies, morale, loyalty, and personalities. Strategy meets a piece-level command system.
+
+<sub>GAME SYSTEMS · INTERACTION · WEB</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[03 — MOUSE PULSE ↗](https://github.com/bhuvan0x/Mouse-Pulse)**
+
+A browser-based mouse diagnostics lab for click, movement, scroll, polling-rate estimates, and CPI/DPI calibration.
+
+<sub>REACT · TYPESCRIPT · BROWSER APIS</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[04 — SLIDEFORGE AI ↗](https://github.com/bhuvan0x/SlideForge-AI)**
+
+Turns a rough presentation idea into a structured slide-by-slide content plan — from blank page to a clear direction.
+
+<sub>GENERATIVE AI · PRODUCTIVITY · WEB</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[05 — SHARINGAN TERMINAL ↗](https://github.com/bhuvan0x/Sharingan-Animation-in-Terminal)**
+
+Procedural anime-inspired eye animations drawn live in the terminal with Python and ANSI true-colour graphics.
+
+<sub>PYTHON · GENERATIVE GRAPHICS · TERMINAL</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[06 — NEONFLUX ↗](https://github.com/bhuvan0x/NeonFlux---Autonomous-AI-Creator-System)**
+
+An autonomous content-generation experiment: discover relevant Hacker News topics, evaluate them against a persona, and draft posts.
+
+<sub>AI AGENTS · AUTOMATION · NODE.JS</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[ **EXPLORE ALL REPOSITORIES →** ](https://github.com/bhuvan0x?tab=repositories)
+
 </div>
 
 ---
 
-## About me
+## 03 / CURRENT EXPERIMENT — ALYA PRIMEBOOK
 
-I'm a student developer interested in the point where **software, intelligence, and human experience** meet.
+<table>
+<tr>
+<td width="56%" valign="top">
 
-I enjoy taking ideas that sound futuristic and breaking them down into practical engineering problems. My main interests are **Artificial Intelligence, local/offline AI, AR/VR, immersive computing, and human-computer interaction**.
+### A voice assistant. Running locally.
 
-I'm still learning, experimenting, and improving. This profile is a record of that process — including projects that work, ideas I'm testing, and lessons picked up along the way.
+I'm building a personal assistant pipeline on modest hardware, with the goal of keeping inference and voice processing on-device.
 
-## Current focus
+The interesting part isn't a chatbot window. It's making the whole loop work:
 
-- **Local AI:** Experimenting with models that can run on personal hardware.
-- **Voice interfaces:** Exploring speech recognition, local language models, and text-to-speech.
-- **Immersive computing:** Learning about AR/VR systems and more natural ways to interact with computers.
-- **Engineering fundamentals:** Improving my programming, system-building, debugging, and problem-solving skills.
-- **Academic direction:** Working toward a future in Science and Engineering, with Japan as a major study goal.
+**hear → understand → reason → speak**
 
-### Current personal experiment — Alya PrimeBook
+</td>
+<td width="44%" valign="top">
 
-A local-first voice assistant experiment combining:
+~~~text
+MICROPHONE
+    ↓
+WHISPER / ASR
+    ↓
+LOCAL QWEN MODEL
+    ↓
+DIALOGUE LAYER
+    ↓
+QWEN3-TTS
+    ↓
+SPEAKER
+~~~
 
-- Local language-model inference
-- Speech-to-text
-- Personality and dialogue orchestration
-- Text-to-speech
+</td>
+</tr>
+</table>
 
-The goal is to understand how an end-to-end voice assistant works on constrained hardware — not just connect a hosted API and call it a day.
-
----
-
-## Selected projects
-
-A few things I've built or worked on:
-
-| Project | What it does |
-| --- | --- |
-| [**AI-Nexus Radar**](https://github.com/bhuvan0x/ai-nexus-radar) | A reliability-focused web-data collection workspace with schema checks, extraction-drift detection, and a human-reviewed repair workflow. |
-| [**SlideForge AI**](https://github.com/bhuvan0x/SlideForge-AI) | Turns a presentation topic into a structured, slide-by-slide content plan. It helps plan a presentation rather than exporting a finished PowerPoint file. |
-| [**Willed Chess**](https://github.com/bhuvan0x/Willed-Chess) | An experimental browser chess game exploring pieces with personalities, morale, loyalty, and a command system. |
-| [**Mouse Pulse**](https://github.com/bhuvan0x/Mouse-Pulse) | A browser-based mouse diagnostics suite for clicks, movement, scrolling, polling-rate estimates, and CPI/DPI calibration. |
-| [**Sharingan Animation in Terminal**](https://github.com/bhuvan0x/Sharingan-Animation-in-Terminal) | A procedural Python terminal animation using ANSI true-colour graphics — rendered live, not played from a video. |
-| [**NeonFlux**](https://github.com/bhuvan0x/NeonFlux---Autonomous-AI-Creator-System) | An autonomous content-generation experiment that discovers Hacker News topics and writes from a configurable AI persona. |
+The project is an ongoing systems experiment in local inference, speech interfaces, latency, and constrained-device engineering.
 
 ---
 
-## Tools & technologies
-
-**Languages and web:**  
-Python · C · C++ · JavaScript · TypeScript · HTML · CSS · Bash
-
-**Development environment:**  
-Linux · Termux · Git · GitHub · Node.js · CMake
-
-**AI and speech experiments:**  
-Local LLM inference · llama.cpp · Whisper · Qwen3-TTS
-
-**Currently exploring:**  
-React · Machine learning workflows · AR/VR development · Human-computer interaction
-
-> These are tools and areas I've worked with or am actively learning — not a claim of expertise in every item.
-
----
-
-## GitHub activity
+## 04 / TOOLBOX
 
 <div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=bhuvan0x&show_icons=true&hide_border=true&theme=transparent"
-    alt="Bhuvan's GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan0x&layout=compact&hide_border=true&theme=transparent"
-    alt="Most used languages in public repositories"
-  />
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,bash,linux,git,github,nodejs,cmake&theme=dark&perline=7" alt="Technologies and tools" />
+
+<br/><br/>
+
+**AI / AUDIO EXPERIMENTS**
+
+<sub>llama.cpp · Whisper · Qwen3-TTS · Local LLMs</sub>
+
+**EXPLORING**
+
+<sub>AR / VR · Human–Computer Interaction · Machine Learning</sub>
+
 </div>
 
+<sub>Tools I've used or am actively exploring — not a claim of expertise in every item.</sub>
+
+---
+
+## 05 / ACTIVITY LOG
+
 <div align="center">
 
-### Contribution graph
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=bhuvan0x&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=C9D1D9&icon_color=39D8E6" alt="GitHub statistics" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan0x&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=C9D1D9" alt="Most used languages" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhuvan0x/bhuvan0x/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhuvan0x/bhuvan0x/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/bhuvan0x/bhuvan0x/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<br/>
 
-[![Generate contribution snake](https://github.com/bhuvan0x/bhuvan0x/actions/workflows/snake.yml/badge.svg)](https://github.com/bhuvan0x/bhuvan0x/actions/workflows/snake.yml)
+<img src="https://raw.githubusercontent.com/bhuvan0x/bhuvan0x/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution graph snake" />
+
+<sub>Contribution animation is generated by GitHub Actions.</sub>
 
 </div>
 
 ---
 
-## Beyond the code
-
-- Anime fan, especially stories that explore technology, psychology, and futuristic ideas.
-- Interested in the science behind fictional technologies and what it would take to make real versions.
-- Enjoys chess, creative experiments, and learning how complex systems work.
-
-## Connect
-
-- **GitHub:** [@bhuvan0x](https://github.com/bhuvan0x)
-- **LinkedIn:** [linkedin.com/in/bhuvan0x](https://www.linkedin.com/in/bhuvan0x/)
-
 <div align="center">
-  <br />
-  <strong>“The future is not something we wait for. It's something we build.”</strong>
-  <br /><br />
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:10172A&height=110&section=footer"
-    width="100%"
-    alt=""
-  />
+
+### LESS TALK. MORE ITERATION.
+
+I'm here to learn difficult things, build real projects, and keep raising the bar.
+
+<a href="https://github.com/bhuvan0x?tab=repositories">REPOSITORIES</a>
+&nbsp; ◈ &nbsp;
+<a href="https://www.linkedin.com/in/bhuvan0x/">LINKEDIN</a>
+
+<br/><br/>
+
+<sub>BHUVAN0X // END OF TRANSMISSION</sub>
+
 </div>
