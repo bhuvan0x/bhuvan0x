@@ -122,42 +122,101 @@ An autonomous content-generation experiment: discover relevant Hacker News topic
 
 ---
 
-## 03 / CURRENT EXPERIMENT — ALYA PRIMEBOOK
+## 03 / THE MAIN BUILD — ALYA PRIMEBOOK
+
+<div align="center">
+
+**v1.9 · PROJECT STARDUST** &nbsp; / &nbsp; **PRIVATE R&D** &nbsp; / &nbsp; **LAST MILESTONE: 19 NOV 2026**
+
+### Not a chatbot window. An assistant system built from the runtime up.
+
+</div>
+
+A local-first AI companion being engineered for constrained ARM64 hardware. The core inference and speech pipeline runs locally; optional web search is a separate, user-controlled feature.
+
+### SYSTEM STATUS
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="50%" valign="top">
 
-### A voice assistant. Running locally.
+**01 — LOCAL AI + VOICE**
 
-I'm building a personal assistant pipeline on modest hardware, with the goal of keeping inference and voice processing on-device.
+- Qwen3 1.7B through `llama.cpp`
+- Multilingual Whisper.cpp speech recognition
+- Qwen3-TTS.cpp voice synthesis
+- Deterministic routing before model inference
 
-The interesting part isn't a chatbot window. It's making the whole loop work:
+**02 — THREE INTERFACES**
 
-**hear → understand → reason → speak**
+- Browser workspace
+- Keyboard-driven Alya Prime TUI
+- Optional Termux:GUI native shell
+
+All share the same backend, conversations, memory, tools, and model lifecycle.
 
 </td>
-<td width="44%" valign="top">
+<td width="50%" valign="top">
 
-~~~text
-MICROPHONE
-    ↓
-WHISPER / ASR
-    ↓
-LOCAL QWEN MODEL
-    ↓
-DIALOGUE LAYER
-    ↓
-QWEN3-TTS
-    ↓
-SPEAKER
-~~~
+**03 — MEMORY + KNOWLEDGE**
+
+- SQLite-backed chat sessions and summaries
+- Approved long-term memory and background learning
+- Local FTS5 document library
+- Study coach, saved skills, research, and daily briefing
+
+**04 — AVATAR + SCENE STUDIO**
+
+- VRM avatar support and lightweight 2D portrait fallback
+- Scene environments, lighting, camera, and transform controls
+- User-selectable avatar and visual settings
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**05 — ENGINEERING + PORTABILITY**
+
+- Android/Termux and Linux platform adapters
+- Optional Rust Core v1.1 process/task supervisor
+- Explicit process ownership and bounded task handling
+- Rust core verified on Linux ARM64: 71 Rust tests and a real owned FFmpeg task
+
+</td>
+<td width="50%" valign="top">
+
+**06 — RELIABILITY + PRIVACY**
+
+- Loopback-first local service
+- Session isolation and persistent-state controls
+- Prompt-injection defenses and permission-checked local tools
+- Offline regression coverage across memory, retrieval, voice cache, UI, and runtime behavior
 
 </td>
 </tr>
 </table>
 
-The project is an ongoing systems experiment in local inference, speech interfaces, latency, and constrained-device engineering.
+### THE CURRENT TERMINAL — PROJECT STARDUST
+
+The v1.9 terminal redesign, **Stardust Atelier**, introduces a midnight-lavender visual system, a constellation-inspired home screen, responsive layouts, five themes, wrapped Markdown/code, and graceful colour/ASCII fallbacks.
+
+### WHAT I'M VERIFYING NEXT
+
+Implementation progress is substantial, but software tests are not a substitute for real-device acceptance. The remaining checks are:
+
+- Live microphone capture and audible speaker playback on the target device
+- Browser VRM rendering, GPU behaviour, and Scene Studio visuals
+- Sustained FPS, memory/thermal behaviour, and touch gestures
+- Re-validation of the optional Rust build on Android/Termux
+
+> **Status honesty:** Linux ARM64 Rust verification is documented. The Android/Termux Rust build was not re-run in this revision. Browser rendering and physical audio acceptance remain manual checks.
+
+<div align="center">
+
+<sub>BUILT LOCALLY · TESTED IN LAYERS · STILL ITERATING</sub>
+
+</div>
 
 ---
 
